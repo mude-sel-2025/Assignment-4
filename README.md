@@ -1,12 +1,13 @@
 📘 Assignment 3 – CV5100: MUDE (IIT Madras)
 
-Topic: Linear Algebra – Eigenvalue Problems
+Topic: Linear Algebra – Optimization
+
 Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 
 
 *Written by: `pradeep, prakash, and sudheendra`*
 
-*Due: `Monday, Aug 18, 2025`*
+*Due: `Monday, Sep 15, 2025`*
 
 🚀 Overview
 
@@ -19,6 +20,7 @@ Eigenvalue computations (eig & eigs)
 Runtime scaling analysis
 
 Linear dependence & independence of vectors
+
 
 
 
