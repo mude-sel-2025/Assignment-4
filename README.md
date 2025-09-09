@@ -1,4 +1,4 @@
-📘 Assignment 3 – CV5100: MUDE (IIT Madras)
+📘 Assignment 4 – CV5100: MUDE (IIT Madras)
 
 Topic: Linear Algebra – Optimization
 
@@ -11,18 +11,7 @@ Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 
 🚀 Overview
 
-This repository contains Assignment 3, focusing on:
-
-Random vectors, dense & sparse matrices
-
-Eigenvalue computations (eig & eigs)
-
-Runtime scaling analysis
-
-Linear dependence & independence of vectors
-
-
-
+This repository contains Assignment 4, focusing on optimization.
 
 
 
