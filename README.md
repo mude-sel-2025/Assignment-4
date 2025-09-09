@@ -1,6 +1,6 @@
 📘 Assignment 4 – CV5100: MUDE (IIT Madras)
 
-Topic: Linear Algebra – Optimization
+Topic: Optimization
 
 Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 
@@ -12,6 +12,7 @@ Course: CV5100 – Modelling, Uncertainty, and Data for Engineers
 🚀 Overview
 
 This repository contains Assignment 4, focusing on optimization.
+
 
 
 
